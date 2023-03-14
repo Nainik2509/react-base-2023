@@ -1,13 +1,13 @@
 /**
- * This file is part of [Shift Group Project]
+ * This file is part of [Nainik's Base Project]
  *
- * (c) 2021 [Nainik Mehta] <[nainik@york.ie]>
+ * (c) 2021 [Nainik Mehta] <[nainikmehta1999@gmail.com]>
  *
  * --------------------------------------------------
  *
- * @module app.v1.shiftGroup
+ * @module app.v1.nainikMehta
  * @description Eslint Configuration
- * @author [Nainik Mehta] <[nainikmehta25@gmail.com]>
+ * @author [Nainik Mehta] <[nainikmehta25@gmail.com]> | <[https://www.linkedin.com/in/nainik-mehta-25nk12/]>
  * @version 1.0.0
  *
  * --------------------------------------------------
@@ -41,6 +41,7 @@ module.exports = {
     'react/prop-types': 'off',
     'react/jsx-uses-react': 'off',
     'react/react-in-jsx-scope': 'off',
+    'css.lint.unknownAtRules': 0,
     'jsx-a11y/no-autofocus': [
       2,
       {

@@ -1,11 +1,11 @@
 /**
- * This file is part of [Shift Group Project]
+ * This file is part of [Nainik's Base Project]
  *
- * (c) 2021 [Nainik Mehta] <[nainik@york.ie]>
+ * (c) 2021 [Nainik Mehta] <[nainikmehta1999@gmail.com]>
  *
  * --------------------------------------------------
  *
- * @module app.v1.shiftGroup
+ * @module app.v1.nainikMehta
  * @description Prettier Configuration
  * @author [Nainik Mehta] <[nainikmehta25@gmail.com]>
  * @version 1.0.0
